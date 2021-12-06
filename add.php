@@ -95,10 +95,5 @@ echo "<a href='view.php'> View Records </a>";
 <br>
 
 <!-- Changes ends here -->
-
-<hr>
-<p class="style2"> Copyright &copy; Boomerang </p>
-<hr>
-
 </body>
 </html>
