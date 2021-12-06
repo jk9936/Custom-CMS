@@ -1,4 +1,4 @@
-CMS Panel is used to view, delete or update records of login table of Boomerang database.
+CMS Panel is used to view, delete or update records of login table of  database.
 
 To log-in:
 Use 
