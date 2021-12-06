@@ -90,7 +90,7 @@ echo "</table>";
 
 <!-- Changes ends here -->
 <hr>
-<p class="style2"> Copyright &copy; Boomerang </p>
+<p class="style2"> Copyright &copy; Jyotik Khatri</p>
 <hr>
 
 </body>
