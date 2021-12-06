@@ -34,7 +34,7 @@ echo "<a href='view.php'> View Records </a>";
 ?>
 
 <p class="style1">
-Boomerang CMS Panel. View, Create, Update or Delete records by accessing the respective modules through navbar.
+ General CMS Panel. View, Create, Update or Delete records by accessing the respective modules through navbar.
 <br> <br>
 Caution:
 
@@ -47,7 +47,7 @@ Caution:
 </ol>
 
 <hr>
-<p class="style2"> Copyright &copy; Boomerang </p>
+<p class="style2"> Copyright &copy; Jyotik Khatri </p>
 <hr>
 
 </body>
